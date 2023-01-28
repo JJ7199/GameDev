@@ -1,3 +1,3 @@
 ﻿  fmod_cpp_context.cpp
-C:\Users\yoons\Desktop\GameDevPracticePackage-master\Chapter1\FMOD_test\fmod_cpp_context\fmod_cpp_context.cpp(75,11): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
-  fmod_cpp_context.vcxproj -> C:\Users\yoons\Desktop\GameDevPracticePackage-master\Chapter1\FMOD_test\x64\Debug\fmod_cpp_context.exe
+C:\Users\yoons\Documents\GameDev\FMOD_test\fmod_cpp_context\fmod_cpp_context.cpp(67,11): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  fmod_cpp_context.vcxproj -> C:\Users\yoons\Documents\GameDev\FMOD_test\x64\Debug\fmod_cpp_context.exe
